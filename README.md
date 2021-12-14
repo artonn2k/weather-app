@@ -13,6 +13,7 @@ I have also used two librarys that npm offers:
 used for fetching the weather data from the API
 
 - styled-components -
+- https://styled-components.com/
 This is my first time using this library, it offers you such an easy way to style your components.
 Here you have the link down below to an youtube video that can introduce you to styled-components library. Try it, ez to learn and ez to use it too!
 https://www.youtube.com/watch?v=-FZzPHSLauc
