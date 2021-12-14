@@ -12,7 +12,7 @@ I have also used two librarys that npm offers:
 - axios -
 used for fetching the weather data from the API
 
-- styled-components -
+- styled-components 
 
 https://styled-components.com/
 
